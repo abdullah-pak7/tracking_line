@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "607415046456",
-    "project_id": "tracking-bd0d0",
-    "storage_bucket": "tracking-bd0d0.appspot.com"
+    "project_number": "473171259359",
+    "project_id": "tracking-line",
+    "storage_bucket": "tracking-line.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:607415046456:android:664f440bdfa4a9a8f6b1cd",
+        "mobilesdk_app_id": "1:473171259359:android:477afc8689ff067b499e6a",
         "android_client_info": {
           "package_name": "com.example.tracking_line"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDWAjtwxgu6shFoVy_ILWpgwK0qleG9-ik"
+          "current_key": "AIzaSyBXbJIDmPXOfHs-rgapTsDP6MFqYMMDAX8"
         }
       ],
       "services": {
